@@ -22,3 +22,9 @@ I'm a data processing specialist!
 <br />
 
 ---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opa-oz&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: [https://www.linkedin.com/in/opa-oz/](https://www.linkedin.com/in/kseniia-bogatenkova-1b23b1269/)https://www.linkedin.com/in/kseniia-bogatenkova-1b23b1269/
+[instagram]: [https://www.instagram.com/opa_oz/](https://www.instagram.com/xenibogat/)https://www.instagram.com/xenibogat/
