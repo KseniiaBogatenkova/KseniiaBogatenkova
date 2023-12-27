@@ -1,7 +1,7 @@
 ### Hi there, I'm Kseniia Bogatenkova 👋
 I'm a data processing specialist!
 
-🥅 2023 Goals: Find my dream job!  
+🥅 2024 Goals: Find my dream job!  
 ⚡ Fun fact: If you want to see how my eyes and heart burn when it comes to data science, contact me below👇  
 ### Connect with me:  
 
