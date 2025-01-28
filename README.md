@@ -9,15 +9,9 @@ I'm passionate about turning raw data into meaningful insights, exploring new te
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kseniia-bogatenkova/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xenibogat/)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kseniia_bogatenkova)  
 
 📧 **Email me**: [novopasssit@mail.ru](mailto:novopasssit@mail.ru)
 
 ---
-
-### About Me:  
-- 💻 **Current Focus**: A/B Testing, SQL, and Python for analytics.  
-- 📚 **Learning Goals**: Machine learning models and advanced data storytelling.  
-- 🌍 **Passion**: Helping businesses unlock the value of their data while continuously growing as a professional.  
-- 🎨 **Fun Fact**: I love combining creativity with logic—whether it’s through visualizing data or solving puzzles!  
-
 
