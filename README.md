@@ -1,8 +1,16 @@
-### Hi there, I'm Kseniia Bogatenkova 👋
-I'm a data processing specialist!
+Hi there, I'm Kseniia Bogatenkova 👋
+Data Enthusiast | Machine Learning Rookie | A/B Testing Explorer
+I'm passionate about turning raw data into meaningful insights, exploring new techniques in data analysis, and constantly learning to improve. I believe in the power of data to shape better decisions and create a more efficient world. 🚀
 
+Let’s Connect 🌐:
+<img align="left" alt="Kseniia Bogatenkova | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+<img align="left" alt="Kseniia Bogatenkova | Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />
 
-### Connect with me:  
+📧 Email me: your-email@example.com
+💡 Portfolio coming soon!
 
-[<img align="left" alt="Your Name | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/kseniia-bogatenkova-1b23b1269/)
-[<img align="left" alt="Your Name | Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />](https://www.instagram.com/xenibogat/)
+Quick Facts About Me 🧐:
+💻 Currently diving deep into A/B Testing and analytics platforms.
+📚 Always learning: SQL, Python, ML basics.
+🎨 Creative mind in love with both art and logic.
+🏖️ Based on sunny Cyprus, but my heart is a global citizen.
