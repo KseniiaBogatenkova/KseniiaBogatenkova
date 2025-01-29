@@ -10,8 +10,8 @@ I'm passionate about turning raw data into meaningful insights, exploring new te
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kseniia-bogatenkova/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xenibogat/)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kseniia_bogatenkova)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pilloftruth)  
 
 📧 **Email me**: [novopasssit@mail.ru](mailto:novopasssit@mail.ru)
 
 ---
-
